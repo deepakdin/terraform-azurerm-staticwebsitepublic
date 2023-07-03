@@ -1,10 +1,11 @@
-# terraform-azurerm-staticwebsitepublic
+## terraform-azurerm-staticwebsitepublic
 Terraform Module for Static Website
 
-# Creating and publishing public module
+## Creating and publishing public module
 - Create new github Repository for azure-static-website terraform module
     - terraform-azurerm-staticwebsitepublic
 - Clone Github Repository to Local Desktop
+    - https://github.com/deepakdin/terraform-azurerm-staticwebsitepublic.git
 - Add module contents to local repo and push to github
 - Create a new Release in github repo
     - Release Title: release 1 - terraform-azurerm-staticwebsitepublic
